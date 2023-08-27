@@ -3,10 +3,11 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=nodejs,js,html,css,regex,selenium,tensorflow,py)](https://fiverr.com/kyanbosman)<br/>
 
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=rk714ki8lrrqb4a5f6ck35f52&cover_image=true&theme=default&show_offline=false&background_color=ffc2c2&interchange=false&bar_color=1466d2&bar_color_cover=false"><img width="200px" src="https://spotify-github-profile.vercel.app/api/view?uid=rk714ki8lrrqb4a5f6ck35f52&cover_image=true&theme=default&show_offline=false&background_color=ffc2c2&interchange=false&bar_color=1466d2&bar_color_cover=false"/></a>
+
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1101294362505269379?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1101294362505269379)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1101294362505269379)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1101294362505269379)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
   <h2>Github Stats ⚡</h2>
   
