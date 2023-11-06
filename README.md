@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Kyan (he/him)** - I'm a fullstack developer, freelancer, tech enthusiast, and high school student. I'm interested in development, music, and building thriving online communities/spaces. I work on random fun projects in my free time :)
+**I'm Kyan** - I'm a fullstack developer, freelancer, tech enthusiast, and high school student. I'm interested in development, music, and tech in general. I work on random stuff in my free time
 
 [![SkillIcons](https://skillicons.dev/icons?i=nodejs,js,html,css,regex,selenium,tensorflow,py)](https://fiverr.com/kyanbosman)<br/>
 
