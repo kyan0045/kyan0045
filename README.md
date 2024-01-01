@@ -1,11 +1,10 @@
 # Heya! 👋
 backend dev pretending to be decent in frontend, my code is ugly but atleast it works
 
-2024 goals;
-
+### 2024 goals;
 get actually decent at frontend like jeeeeez<br/>
 rewrite my ugly ass old code, shit's embarrassing like fr
-
+<br/><br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=nodejs,js,html,css,regex,selenium,tensorflow)](https://fiverr.com/kyanbosman)<br/>
 
