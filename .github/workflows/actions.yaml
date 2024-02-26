@@ -21,15 +21,15 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Amsterdam
           plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
+          plugin_code_days: 14
+          plugin_code_lines: 24
           plugin_code_load: 400
           plugin_code_visibility: public
           plugin_habits: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 30
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 250
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
@@ -47,9 +47,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
+          plugin_lines_repositories_limit: 12
           plugin_lines_sections: base
           plugin_traffic: yes
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
