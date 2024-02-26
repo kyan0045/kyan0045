@@ -63,7 +63,7 @@ jobs:
           plugin_lines_sections: base
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
+          plugin_sponsors_size: 12
           plugin_sponsors_title: Sponsor Me!
           plugin_traffic: yes
           plugin_wakatime: yes
@@ -73,3 +73,7 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
