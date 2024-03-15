@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.05m added, 53 removed
+                                    155k added, 135k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.37k views in last two weeks
+                                    1.38k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2301,7 +2301,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 12 Mar 2024, 15:03:44
+                            On 12 Mar 2024, 15:15:01
                         </div>
                     </section>
                 </div>
@@ -2318,7 +2318,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">ffd730d1</span>
-                            <span class="code">node_modules/@discordjs/builders/node_modules/discord-api-types/gateway/v10.js.map</span>
+                            <span class="code">node_modules/@discordjs/builders/node_modules/discord-api-types/payloads/v10/_interactions/_applicationCommands/_chatInput/base.js.map</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -2329,14 +2329,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"v10.js","sourceRoot":"","sources":["v10.ts"],"names":[],"mappings":";AAAA;;GAEG;;;;;;;;;;;;;;;;;AAoCH,2CAAyB;AAEZ,QAAA,cAAc,GAAG,IAAI,CAAC;AAEnC;;GAEG;AACH,IAAY,cA8CX;AA9CD,WAAY,cAAc;IACzB;;OAEG;IACH,2DAAQ,CAAA;IACR;;;OAGG;IACH,6DAAS,CAAA;IACT;;OAEG;IACH,2DAAQ,CAAA;IACR;;OAEG;IACH,uEAAc,CAAA;IACd;;OAEG;IACH,2EAAgB,CAAA;IAChB;;OAEG;IACH,uDAAU,CAAA;IACV;;OAEG;IACH,6DAAS,CAAA;IACT;;OAEG;IACH,iFAAmB,CAAA;IACnB;;OAEG;IACH,uEAAc,CAAA;IACd;;OAEG;IACH,sDAAK,CAAA;IACL;;OAEG;IACH,oEAAY,CAAA;AACb,CAAC,EA9CW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QA8CzB;AAED;;GAEG;AACH,IAAY,iBA8EX;AA9ED,WAAY,iBAAiB;IAC5B;;OAEG;IACH,4EAAoB,CAAA;IACpB;;;;OAIG;IACH,8EAAa,CAAA;IACb;;;;OAIG;IACH,0EAAW,CAAA;IACX;;;;OAIG;IACH,oFAAgB,CAAA;IAChB;;;;OAIG;IACH,4FAAoB,CAAA;IACpB;;OAEG;IACH,4FAAoB,CAAA;IACpB;;;;OAIG;IACH,wEAAkB,CAAA;IAClB;;OAEG;IACH,0EAAW,CAAA;IACX;;OAEG;IACH,kFAAe,CAAA;IACf;;;;OAIG;IACH,4EAAY,CAAA;IACZ;;;;OAIG;IACH,oFAAgB,CAAA;IAChB;;OAEG;IACH,sFAAiB,CAAA;IACjB;;;;OAIG;IACH,gFAAc,CAAA;IACd;;;;;;;OAOG;IACH,sFAAiB,CAAA;AAClB,CAAC,EA9EW,iBAAiB,GAAjB,yBAAiB,KAAjB,yBAAiB,QA8E5B;AAED;;GAEG;AACH,IAAY,iBAwBX;AAxBD,WAAY,iBAAiB;IAC5B,6DAAe,CAAA;IACf,yEAAqB,CAAA;IACrB,+EAAwB,CAAA;IACxB;;OAEG;IACH,mEAA2B,CAAA;IAC3B,6FAA+B,CAAA;IAC/B,oFAA0B,CAAA;IAC1B,4EAAsB,CAAA;IACtB,0EAAqB,CAAA;IACrB,mFAAyB,CAAA;IACzB,+EAAuB,CAAA;IACvB,6EAAsB,CAAA;IACtB,8FAA+B,CAAA;IAC/B,wFAA4B,CAAA;IAC5B,gFAAwB,CAAA;IACxB,gGAAgC,CAAA;IAChC,2FAA6B,CAAA;IAC7B,iFAAwB,CAAA;IACxB,6FAA8B,CAAA;IAC9B,6GAAqC,CAAA;IACrC,qGAAiC,CAAA;AAClC,CAAC,EAxBW,iBAAiB,GAAjB,yBAAiB,KAAjB,yBAAiB,QAwB5B;AAED;;GAEG;AACH,IAAY,qBA8DX;AA9DD,WAAY,qBAAqB;IAChC,uGAA8E,CAAA;IAC9E,yDAAgC,CAAA;IAChC,yDAAgC,CAAA;IAChC,kEAAyC,CAAA;IACzC,yDAAgC,CAAA;IAChC,sDAA6B,CAAA;IAC7B,4DAAmC,CAAA;IACnC,qDAA4B,CAAA;IAC5B,qDAA4B,CAAA;IAC5B,kEAAyC,CAAA;IACzC,8EAAqD,CAAA;IACrD,4DAAmC,CAAA;IACnC,kEAAyC,CAAA;IACzC,kEAAyC,CAAA;IACzC,kEAAyC,CAAA;IACzC,8DAAqC,CAAA;IACrC,8DAAqC,CAAA;IACrC,8DAAqC,CAAA;IACrC,sEAA6C,CAAA;IAC7C,qDAA4B,CAAA;IAC5B,iEAAwC,CAAA;IACxC,iEAAwC,CAAA;IACxC,iEAAwC,CAAA;IACxC,iEAAwC,CAAA;IACxC,uDAA8B,CAAA;IAC9B,uDAA8B,CAAA;IAC9B,yDAAgC,CAAA;IAChC,yDAAgC,CAAA;IAChC,kEAAyC,CAAA;IACzC,oEAA2C,CAAA;IAC3C,0EAAiD,CAAA;IACjD,iFAAwD,CAAA;IACxD,qFAA4D,CAAA;IAC5D,yDAAgC,CAAA;IAChC,2DAAkC,CAAA;IAClC,sEAA6C,CAAA;IAC7C,sEAA6C,CAAA;IAC7C,sEAA6C,CAAA;IAC7C,wCAAe,CAAA;IACf,4CAAmB,CAAA;IACnB,uDAA8B,CAAA;IAC9B,uDAA8B,CAAA;IAC9B,4DAAmC,CAAA;IACnC,sEAA6C,CAAA;IAC7C,oEAA2C,CAAA;IAC3C,uDAA8B,CAAA;IAC9B,qDAA4B,CAAA;IAC5B,mDAA0B,CAAA;IAC1B,kEAAyC,CAAA;IACzC,gEAAuC,CAAA;IACvC,2DAAkC,CAAA;IAClC,mFAA0D,CAAA;IAC1D,mFAA0D,CAAA;IAC1D,mFAA0D,CAAA;IAC1D,sFAA6D,CAAA;IAC7D,4FAAmE,CAAA;IACnE,iFAAwD,CAAA;IACxD,iFAAwD,CAAA;IACxD,iFAAwD,CAAA;IACxD,2FAAkE,CAAA;IAClE,kFAAyD,CAAA;AAC1D,CAAC,EA9DW,qBAAqB,GAArB,6BAAqB,KAArB,6BAAqB,QA8DhC;AAsvDD,oBAAoB"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"base.js","sourceRoot":"","sources":["base.ts"],"names":[],"mappings":""}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2024, 17:17:41 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Mar 2024, 18:12:58 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
