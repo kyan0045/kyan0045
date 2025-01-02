@@ -1,13 +1,13 @@
 # Heya! 👋 
 backend dev pretending to be decent in frontend, my code ain't pretty (yet!) but atleast it works
 
-## 2024 goals;
-> get actually decent at frontend<br/>
-> some day i'll rewrite stuff, some day..
+## 2025 goals;
+> more, more, more frontend</br>
+> rust?
 
 ## currently;
-> learning c++<br/>
-> still rewriting stuff..
+> still rewriting stuff.. (but i came quite far in 2024 :)
+
 <br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=nodejs,js,html,css,regex,selenium,tensorflow)](https://fiverr.com/kyanbosman)<br/>
