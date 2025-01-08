@@ -4,9 +4,10 @@ backend dev pretending to be decent in frontend, my code ain't pretty (yet!) but
 ## 2025 goals;
 > more, more, more frontend</br>
 > rust?
+> c++ projects?
 
 ## currently;
-> still rewriting stuff.. (but i came quite far in 2024 :)
+> still rewriting stuff.. but i came quite far in 2024 :)
 
 <br/>
 
