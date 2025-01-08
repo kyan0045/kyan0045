@@ -1,5 +1,5 @@
 # Heya! 👋 
-backend dev pretending to be decent in frontend, my code ain't pretty (yet!) but atleast it works
+backend dev pretending to be decent in frontend, not all my public code is pretty but hey, it's likely old & it works (or it did, one day...)
 
 ## 2025 goals;
 > more, more, more frontend</br>
