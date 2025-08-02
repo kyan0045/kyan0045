@@ -7,7 +7,7 @@ backend dev pretending to be decent in frontend, not all my public code is prett
 > c++ projects?
 
 ## currently;
-> still rewriting stuff.. but i came quite far in 2024 :)
+> not doing much publicly, working on a new personal site tho
 
 <br/>
 
