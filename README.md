@@ -3,11 +3,10 @@ backend dev pretending to be decent in frontend, not all my public code is prett
 
 ## 2025 goals;
 > more, more, more frontend</br>
-> rust?
-> c++ projects?
+> oh and maybe some useful things
 
 ## currently;
-> not doing much publicly, working on a new personal site tho
+> not doing much publicly, working on a new personal site tho (the old one is so damn ugly)
 
 <br/>
 
