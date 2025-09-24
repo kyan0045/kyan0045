@@ -1,9 +1,6 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -12,6 +9,19 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
+
+      - name: Show runner info (optional)
+        run: |
+          echo "Runner OS: $(uname -a)"
+          echo "Docker version:"
+          docker --version || echo "Docker not found"
+          echo "jq version:"
+          jq --version || echo "jq not found"
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
