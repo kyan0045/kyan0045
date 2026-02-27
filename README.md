@@ -1,12 +1,11 @@
 # Heya! 👋 
-backend dev pretending to be decent in frontend, not all my public code is pretty but hey, it's likely old & it works (or it did, one day...)
+backend dev who sometimes dabbles in frontend, not all my public code is pretty but hey, it's likely old & it works (or it did, one day...)
 
-## 2025 goals;
-> more, more, more frontend</br>
-> oh and maybe some useful things
+## 2026 goals;
+> open source rocks, planning on starting new OSS projects.
 
 ## currently;
-> not doing much publicly, working on a new personal site tho (the old one is so damn ugly)
+> not doing much publicly, planning on open sourcing some old stuff and then finding a new project (OSS, hit me up with ideas or collabs 😉)
 
 <br/>
 
@@ -23,18 +22,5 @@ backend dev pretending to be decent in frontend, not all my public code is prett
 </picture>
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kyan0045&theme=vision-friendly-dark&count_private=true&hide_border=true&show_icons=true)</a>
-<!--
-**kyan0045/kyan0045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![](https://hit.yhype.me/github/profile?user_id=84374752)
